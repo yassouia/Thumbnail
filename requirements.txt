@@ -1,6 +1,6 @@
 streamlit
 pandas
-pytub
+pytube
 requests
 streamlit_option_menu
 numpy
