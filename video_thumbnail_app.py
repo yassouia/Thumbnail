@@ -4,9 +4,7 @@ from PIL import Image
 from io import BytesIO
 import streamlit as st
 from streamlit_option_menu import option_menu
-import base64
-import tempfile
-import os
+
 
 quality_mapping = {
     "1920x1080": 1920,
