@@ -3,4 +3,3 @@ pandas==1.3.3
 pytub==15.0.0
 requests==2.31.0
 streamlit_option_menu==0.3.6
-pip==23.2.1
